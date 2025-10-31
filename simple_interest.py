@@ -16,9 +16,9 @@ if __name__ == "__main__":
             t = float(sys.argv[3])
         else:
             # Case 2: No arguments passed (for console use)
-         p = float(input("Enter the principal amount: "))
-        r = float(input("Enter the rate of interest (%): "))
-        t = float(input("Enter the time (in years): "))
+            p = float(input("Enter the principal amount: "))
+            r = float(input("Enter the rate of interest (%): "))
+            t = float(input("Enter the time (in years): "))
 
         print("\n=== Program parameters ===")
         print("Principal Amount :", p)
