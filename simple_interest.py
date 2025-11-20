@@ -1,5 +1,3 @@
-# simple_interest.py
-# Program to calculate Simple Interest
 import sys
 
 def calculate_simple_interest(principal, rate, time):
